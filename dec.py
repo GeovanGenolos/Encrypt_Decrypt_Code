@@ -1,23 +1,19 @@
 import tkinter as tk
 
-# Function to perform a simple decryption
 def decrypt_text(text):
     decrypted_text = ""
     for char in text:
-        decrypted_text += chr(ord(char) - 1)  # Shifting each character back by 1 ASCII value
+        decrypted_text += chr(ord(char) - 1)
     return decrypted_text
 
-# Function to handle button click and decrypt the input
 def decrypt_input():
     encrypted_text = input_entry.get()
     decrypted_text = decrypt_text(encrypted_text)
     output_label.config(text=decrypted_text)
 
-# Creating the main window
 window = tk.Tk()
 window.title("Decryption Generator")
 
-# Creating GUI components
 input_label = tk.Label(window, text="Enter text to decrypt:")
 input_label.pack()
 
@@ -30,5 +26,4 @@ decrypt_button.pack()
 output_label = tk.Label(window, text="")
 output_label.pack()
 
-# Running the main loop
 window.mainloop()
