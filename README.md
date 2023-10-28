@@ -26,11 +26,11 @@ This script facilitates the encryption of text using a basic letter-shifting alg
 
 **Usage**
 
--Run the script enc.py.
+- Run the script enc.py.
 
--Enter the text you wish to encrypt in the provided input field.
+- Enter the text you wish to encrypt in the provided input field.
 
--Click the "Encrypt" button to generate the encrypted text.
+- Click the "Encrypt" button to generate the encrypted text.
 
 
 
