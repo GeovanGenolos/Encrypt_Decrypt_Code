@@ -13,7 +13,9 @@ This script enables the decryption of a string using a simple letter-shifting al
 **Usage**
 
 -Run the script dec.py.
+
 -Enter the encrypted text in the provided input field.
+
 -Click the "Decrypt" button to view the decrypted text.
 
 # **Encryption Script**
@@ -25,7 +27,9 @@ This script facilitates the encryption of text using a basic letter-shifting alg
 **Usage**
 
 -Run the script enc.py.
+
 -Enter the text you wish to encrypt in the provided input field.
+
 -Click the "Encrypt" button to generate the encrypted text.
 
 **Running the Scripts**
