@@ -36,7 +36,7 @@ This script facilitates the encryption of text using a basic letter-shifting alg
 
 
 
-**Running the Scripts**
+# **Running the Scripts**
 
 To run the scripts, ensure you have Python installed on your system. Execute the scripts with the following commands:
 
