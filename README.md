@@ -4,7 +4,7 @@
 
 This tool provides a simple graphical interface for encrypting and decrypting text using a basic letter-shifting algorithm. It utilizes the Tkinter library for the graphical user interface.
 
-**Decryption Script**
+# **Decryption Script**
 
 **dec.py**
 This script enables the decryption of a string using a simple letter-shifting algorithm. Each character in the input string is shifted back by one position, essentially reversing the encryption process.
@@ -14,7 +14,7 @@ This script enables the decryption of a string using a simple letter-shifting al
 -Enter the encrypted text in the provided input field.
 -Click the "Decrypt" button to view the decrypted text.
 
-**Encryption Script**
+# **Encryption Script**
 
 **enc.py**
 This script facilitates the encryption of text using a basic letter-shifting algorithm. Each character in the input string is shifted forward by one position, making the text unreadable to anyone without the decryption key.
@@ -33,5 +33,5 @@ python dec.py
 For encryption:
 python enc.py
 
-**Note**
+# **Note**
 These scripts provide a basic illustration of encryption and decryption and should not be used for sensitive or secure data. Additional security measures should be implemented for secure data handling.
