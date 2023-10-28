@@ -12,11 +12,11 @@ This script enables the decryption of a string using a simple letter-shifting al
 
 **Usage**
 
--Run the script dec.py.
+- Run the script dec.py.
 
--Enter the encrypted text in the provided input field.
+- Enter the encrypted text in the provided input field.
 
--Click the "Decrypt" button to view the decrypted text.
+- Click the "Decrypt" button to view the decrypted text.
 
 # **Encryption Script**
 
